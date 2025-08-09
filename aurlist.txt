@@ -1,0 +1,10 @@
+brave-bin
+google-chrome
+kora-icon-theme
+legcord
+phonon-qt6-mpv
+qqc2-desktop-style5
+qt5ct-kde
+qt6ct-kde
+wlogout
+zen-browser-bin
